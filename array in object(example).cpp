@@ -22,7 +22,7 @@ public:
 
 int main()               
 {
-    employee ob[10];        //array in a objct 
+    employee ob[10];        //array in a object 
     int i, no;
     cout << "How many employee" << endl;
     cin >> no;
