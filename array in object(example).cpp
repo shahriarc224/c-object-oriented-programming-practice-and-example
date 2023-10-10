@@ -22,9 +22,9 @@ public:
 
 int main()               
 {
-    employee ob[10];        //array in a object 
+    employee ob[10];        //array in object. 
     int i, no;
-    cout << "How many employee" << endl;
+    cout << "How many employee:" << endl;
     cin >> no;
 
     for (i = 0; i < no; i++)
