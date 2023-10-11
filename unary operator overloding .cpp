@@ -1,6 +1,6 @@
 /*
 Youtube channel:Learn coding .
-unary operator example .
+Example of unary operator overloding using class functiuon .
 
 Defination:A operator which contain only one operand is called unary operator  */
 
