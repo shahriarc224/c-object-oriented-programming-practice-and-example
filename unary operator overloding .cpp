@@ -2,7 +2,7 @@
 Youtube channel:Learn coding .
 Example of unary operator overloding using class functiuon .
 
-Defination:A operator which contain only one operand is called unary operator  */
+Defination:An operator which contain only one operand is called unary operator  */
 
 #include<bits/stdc++.h>
 using namespace std;
