@@ -49,7 +49,7 @@ But if we want to use just ne code for  integer,char ,float ,double,the n we hav
 
 
 */
-//Generic class:
+//Generic function:
 
 
 #include <iostream>
