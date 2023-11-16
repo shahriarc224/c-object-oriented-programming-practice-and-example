@@ -90,5 +90,46 @@ int main(){
     c.Bfunc();
     
 }
+ 
+//  4.Hybrid Inheritance
+//Example:
+
+#include<iostream>
+using namespace std;
+class A{
+    public:
+    void Afunc(){
+         cout<<"Class A is inherited"<<endl;
+         }
+    };
     
+    class B:public A{
+    public:
+    void Bfunc(){
+          cout<<"Class B is inherited"<<endl;
+         }
+    };
     
+    class C{ 
+        public:
+        void Cfunc(){
+            cout<<"Class C is inherited."<<endl;
+             }
+         };
+    class D:public B,public C{
+    };
+int main(){
+     D d;
+    d.Afunc();
+    d.Bfunc();
+    d.Cfunc();
+}
+
+
+
+
+
+
+
+//5.Hierarchical Inheritance 
+//Example:
