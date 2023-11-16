@@ -126,10 +126,5 @@ int main(){
 }
 
 
-
-
-
-
-
 //5.Hierarchical Inheritance 
 //Example:
