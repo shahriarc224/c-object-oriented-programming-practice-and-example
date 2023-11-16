@@ -1,12 +1,43 @@
 /*                                                                                                              youtube:apna college
+Inheritance: Inheritance is a mechanism of reusing and extending existing classes without modifying them, thus 
+producing hierarchical relationships between them.
 
-inheritance has Derived class and a base class.derived class(child class ),Base class (parents class).
+inheritance has Derived class and a base class.
+Derived class(child class ),Base class (parents class).
 
 there are 5 types of inheritance 
-1.Single Inheritance
+1.Single Inheritanc
 2.Multiple Inheritance
 3.multi lavel Inheritance 
 4.Hybrid Inheritance
 5.Hierarchical Inheritance 
 
 Example of single inheritance */
+
+//1.Single Inheritanc
+//Example:
+
+#include<iostream>
+using namespace std;
+class A{
+public:
+void func(){
+   cout<<"This class is Inherited"<<endl; 
+}
+};
+class B:public A{
+};
+int main(){
+   B b;
+   b.func();
+    
+    
+}
+
+//  2.Multiple Inheritance
+
+//example:
+
+
+    
+    
