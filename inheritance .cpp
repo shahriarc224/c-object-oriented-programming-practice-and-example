@@ -38,6 +38,31 @@ int main(){
 
 //example:
 
+#include<iostream>
+using namespace std;
+class A{
+    public:
+    void Afunc(){
+         cout<<"Class A is inherited"<<endl;
+         }
+    };
+    
+    class B{
+    public:
+    void Bfunc(){
+          cout<<"Class B is inherited"<<endl;
+         }
+    };
+    class C:public A,public B{
+    };
+int main(){
+    
+    C c;
+    c.Afunc();
+    c.Bfunc();
+    
+}
+
 
     
     
