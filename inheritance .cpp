@@ -63,6 +63,8 @@ int main(){
     
 }
 
+//3.multi lavel Inheritance 
+//Example:
 
     
     
