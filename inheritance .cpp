@@ -1,4 +1,6 @@
-/*inheritance has Derived class and a base class.derived class(child class ),Base class (parents class).
+/*                                                                                                              youtube:apna college
+
+inheritance has Derived class and a base class.derived class(child class ),Base class (parents class).
 
 there are 5 types of inheritance 
 1.Single Inheritance
