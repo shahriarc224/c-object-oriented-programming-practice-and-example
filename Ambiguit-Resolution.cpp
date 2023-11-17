@@ -18,7 +18,7 @@ Ambiguit-Resolution:
 
 
 /*                                                                                          Youtube:Simple Snippets
-                                                                                             link:https://youtu.be/3XUXSiC-hPE?si=2XrZSt3q60m46Tkm
+                                                                                             link:https:  //youtu.be/3XUXSiC-hPE?si=2XrZSt3q60m46Tkm
 */     
 //Example:
 #include<iostream>
