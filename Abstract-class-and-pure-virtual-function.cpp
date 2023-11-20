@@ -18,7 +18,7 @@ using namespace std;
  catch (...)  /*If we threw an intager numbre then we need to write int x 
                  If we threw a character  then we need to write char a
                  And if we use this  (...)  we cam throw data type. 
-                                                                       */
+                                                                    */
    {
  cout<<"Y is less the zero";
  }
