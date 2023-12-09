@@ -1,4 +1,4 @@
-#include<iostraem>
+#include<iostream>
 #include<fstream>   /*to read and write in to a file we need    <fstream> library.
                        */
 using namespace std;
@@ -18,7 +18,7 @@ int main (){
 //..................................................................................................................................................
 
 
-  #include<iostraem>
+  #include<iostream>
 #include<fstream>         /*to read and write in to a file we need  <fstream> library.
                                      */
 using namespace std;
@@ -38,7 +38,7 @@ int main (){
 }
 //.............................................................................................................................................
 
-#include<iostraem>
+#include<iostream>
 #include<fstream>         /*to read and write in to a file we need  <fstream> library.
                                      */
 using namespace std;
